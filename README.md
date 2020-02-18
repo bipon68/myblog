@@ -12,7 +12,7 @@ Learning
 
 |  | Article Name   |      Improve?       |  Reference | 
 |----------|:-------------|:------:|:------:|
-| 1 | [hoisting](https://bipon.me/the-concept-of-hoisting-in-javascript/) |  | [Variable Hoisting](https://codeburst.io/javascript-demystified-variable-hoisting-c3c4d2e8fd40) , [Function Hoisting](https://codeburst.io/javascript-demystified-02-function-hoisting-b83dcaeb265), [Hoisting Concepts in Bangla](https://bit.ly/2uC3eD4), [Gist Source Code](https://gist.github.com/bipon68/d0f014931653b0629a16b143c538d8e4)||
+| 1 | [hoisting](https://bipon.me/the-concept-of-hoisting-in-javascript/) | X | [Gist Source Code](https://gist.github.com/bipon68/d0f014931653b0629a16b143c538d8e4)||
 
 
 
@@ -27,6 +27,6 @@ Learning
 
 ### Project for Level Up
 
-|  | Project Name   |      Read       |  Reference | 
+|  | Project Name   |      Improve?       |  Reference | 
 |----------|:-------------|:------:|:------:|
-| 1 | [Basic quiz app - javaScript](https://github.com/bipon68/basic-quiz-app) | X| [Basic quiz app - Demo](https://bipon68.github.io/basic-quiz-app/)|
+| 1 | [Basic quiz app - javaScript](https://github.com/bipon68/basic-quiz-app) | X | [Basic quiz app - Demo](https://bipon68.github.io/basic-quiz-app/)|

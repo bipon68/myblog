@@ -7,6 +7,32 @@ Learning
 - [ ] Others
 - [ ] Project
 
+**Mission - 2020**
+- [ ] Angular
+- [ ] JavaScript Algorithms and Data Structures Certification (300 hours)
+- [ ] Create a StyleGuide
+
+### Article List in Medium
+
+|  | Article Name   |      Update       |  Reference | 
+|----------|:-------------|:------:|:------:|
+| 1 | [Angular: Create a custom dependency injection](https://medium.com/@bipon68/angular-create-a-custom-dependency-injection-4fd50d84ef42) | X | X |
+| 2 | [Dependency Injection Concept](https://medium.com/@bipon68/dependency-injection-concept-5c6604a778e6) | X | X |
+| 3 | [Coronavirus-covid-19](https://bit.ly/3anqftc) | X | X |
+| 4 | [Angular RxJS Observable Class](https://medium.com/@bipon68/angular-rxjs-observable-class-d037cc7ce318) | X | X |
+| 5 | [Angular HTTP Client Library](https://medium.com/@bipon68/angular-http-client-library-4a305d99e4af) | X | X |
+| 6 | [Angular Built-In Directives](https://medium.com/@bipon68/angular-built-in-directives-f2a4601faac6) | X | X |
+| 7 | [Angular Template Syntax](https://medium.com/@bipon68/angular-template-syntax-bd54e4bcb035) | X | X |
+| 8 | [Front End Developer / Engineer: Anything that wants to be imported](https://medium.com/@bipon68/front-end-developer-engineer-anything-that-wants-to-be-imported-e3032a984663) | X | X |
+| 9 | [সিএসএস(CSS) এবং বিইএম(BEM)](https://bit.ly/2WRzXA0) | X | X |
+| 10 | [Front End Engineer: Scope of work and responsibility](https://medium.com/@bipon68/front-end-engineer-scope-of-work-and-responsibility-a993230af3df) | X | X |
+| 11 | [জাভাস্ক্রিপ্ট — var, let, const](https://bit.ly/2UNHCwV) | X | X |
+| 12 | [অ্যাঙ্গুলার(Angular) কম্পোনেন্ট তৈরি ও ব্যবহার করবেন কীভাবে?](https://bit.ly/33UGWKa) | X | X |
+| 13 | [কয়েক মিনিটের মধ্যে অ্যাঙ্গুলার-সিএলআই ব্যবহার করে অ্যাঙ্গুলার নতুন প্রোজেক্ট করা](https://bit.ly/2WQBFll) | X | X |
+| 14 | [নতুনদের জন্য এইচটিএমএল, সিএসএস এবং জাভাস্ক্রিপ্ট](https://bit.ly/2xzblS0) | X | X |
+| 15 | [নতুনদের জন্য সিএসএস: সিএসএস কী এবং ওয়েব ডেভেলপমেন্টে এটি কীভাবে ব্যবহার করতে হয়?](https://bit.ly/2UsGAHz) | X | X |
+| 16 | [Deadly coronavirus](https://medium.com/@bipon68/deadly-coronavirus-3c5ccc714283) | X | X |
+
 
 ### Article List
 

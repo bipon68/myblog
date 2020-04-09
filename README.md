@@ -32,6 +32,9 @@ Learning
 | 14 | [নতুনদের জন্য এইচটিএমএল, সিএসএস এবং জাভাস্ক্রিপ্ট](https://bit.ly/2xzblS0) | X | X |
 | 15 | [নতুনদের জন্য সিএসএস: সিএসএস কী এবং ওয়েব ডেভেলপমেন্টে এটি কীভাবে ব্যবহার করতে হয়?](https://bit.ly/2UsGAHz) | X | X |
 | 16 | [Deadly coronavirus](https://medium.com/@bipon68/deadly-coronavirus-3c5ccc714283) | X | X |
+| 17 | [Callback Function](https://medium.com/@bipon68/functions-and-callbacks-cd55914817ec) | X | X |
+
+
 
 
 ### Article List

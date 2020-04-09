@@ -33,6 +33,7 @@ Learning
 | 15 | [নতুনদের জন্য সিএসএস: সিএসএস কী এবং ওয়েব ডেভেলপমেন্টে এটি কীভাবে ব্যবহার করতে হয়?](https://bit.ly/2UsGAHz) | X | X |
 | 16 | [Deadly coronavirus](https://medium.com/@bipon68/deadly-coronavirus-3c5ccc714283) | X | X |
 | 17 | [Callback Function](https://medium.com/@bipon68/functions-and-callbacks-cd55914817ec) | X | X |
+| 18 | [Angular Custom Directive](https://medium.com/@bipon68/angular-custom-directive-1cc069b815b1) | X | X |
 
 
 

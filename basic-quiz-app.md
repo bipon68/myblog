@@ -1,6 +1,6 @@
 # Basic Quiz App
 
-###HTML
+### HTML
 
 ```node
 <!DOCTYPE html>
@@ -43,7 +43,7 @@
 </html>
 ```
 
-###CSS
+### CSS
 
 ```node
 body {
@@ -102,7 +102,7 @@ input {
 } 
 ```
 
-###JS
+### JS
 
 ```node
 function check(){

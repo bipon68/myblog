@@ -95,10 +95,10 @@ Output:
 
 **Source Code & Reference**
 
-[Github](https://github.com/bipon68/angular-medium),
-[Stackblitz](https://stackblitz.com/github/bipon68/angular-medium),
-[TypeScript](https://scrimba.com/g/gintrototypescript),
-[Angular-CLI](https://angular.io/cli)
+- [Github](https://github.com/bipon68/angular-medium),
+- [Stackblitz](https://stackblitz.com/github/bipon68/angular-medium),
+- [TypeScript](https://scrimba.com/g/gintrototypescript),
+- [Angular-CLI](https://angular.io/cli)
 
 
 
